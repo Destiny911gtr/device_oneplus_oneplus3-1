@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.pocketmode;
+package com.cyanogenmod.pocketmode;
 
 import android.content.Context;
 import android.hardware.Sensor;
@@ -22,8 +22,7 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.util.Log;
-
-import org.lineageos.internal.util.FileUtils;
+import com.cyanogenmod.pocketmode.FileUtils;
 
 public class ProximitySensor implements SensorEventListener {
 
