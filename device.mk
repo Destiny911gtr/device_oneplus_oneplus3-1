@@ -237,3 +237,6 @@ PRODUCT_PACKAGES += \
     dhcpcd.conf \
     wpa_supplicant \
     wpa_supplicant.conf
+
+# Inherit from oppo-common
+$(call inherit-product, device/oppo/common/common.mk)
