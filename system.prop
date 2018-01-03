@@ -133,7 +133,7 @@ mm.enable.qcom_parser=13631487
 persist.mm.enable.prefetch=true
 
 # default is already true - just for reference
-ro.sys.sdcardfs=true
+ro.sys.sdcardfs=false
 
 #enable camera read sensors data
 persist.camera.gyro.disable=0
