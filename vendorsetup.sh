@@ -1,1 +1,1 @@
-add_lunch_combo fh_oneplus3-userdebug
+add_lunch_combo aim_oneplus3-userdebug
